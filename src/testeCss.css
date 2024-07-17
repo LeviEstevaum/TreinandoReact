@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+
+.containerbody{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.positionTextCard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
